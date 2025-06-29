@@ -18,7 +18,7 @@ Have an idea? [Submit a feature request](https://github.com/infinitywanderer/Tra
 
 ## 📧 Direct Contact
 For urgent issues or privacy-sensitive matters:
-**Email:** support@tradingjournal.app
+**Email:** i7939416@gmail.com
 
 ## 🔍 Before Reporting
 Please check [existing issues](https://github.com/infinitywanderer/TradingJournalX-support/issues) to avoid duplicates.
